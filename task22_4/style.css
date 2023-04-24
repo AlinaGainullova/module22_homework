@@ -1,0 +1,13 @@
+button {
+    display: flex;
+    padding: 20px 20px;
+    border-radius: 0;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 15px;
+    text-transform: uppercase;
+    color: white;
+    background: #b60f63;
+    border: 0;
+    -webkit-tap-highlight-color: transparent;
+}
